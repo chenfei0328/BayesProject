@@ -10,4 +10,5 @@ An origin project of text classification with the algorithm of Naive Bayes
 5 claPro.txt : 朴素贝叶斯生成的用以计算分类的类别概率矩阵    
 6 conPro.txt : 朴素贝叶斯生成的用以计算分类的条件概率矩阵     
 7 PY测试文件夹 ： 测试文件，未完成    
-数据集、词汇表、tf-idf矩阵文件太大，无法上传，若有需要，可戳Email:756186612@qq.com    
+数据集、词汇表、tf-idf矩阵文件太大，无法上传，若有需要，可戳Email:756186612@qq.com    
+（最新：作者电脑已重装，这些数据资料荡然无存，抱歉！）
