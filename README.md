@@ -12,3 +12,4 @@ An origin project of text classification with the algorithm of Naive Bayes
 7 PY测试文件夹 ： 测试文件，未完成    
 数据集、词汇表、tf-idf矩阵文件太大，无法上传，若有需要，可戳Email:756186612@qq.com    
 （最新：作者电脑已重装，这些数据资料荡然无存，抱歉！）
+详细过程可看https://blog.csdn.net/chenfei0328/article/details/73197547
